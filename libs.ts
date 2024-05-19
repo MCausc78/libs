@@ -1332,7 +1332,10 @@ export const libs: Lib[] = [
 		localization: 'Yes',
 		forums: 'Yes',
 		userApps: 'No',
-		polls: 'No'
+		polls: {
+			text: 'Has a PR',
+			url: 'https://github.com/hikari-py/hikari/pull/1922'
+		}
 	},
 	{
 		name: 'interactions.py',
