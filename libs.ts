@@ -407,10 +407,7 @@ export const libs: Lib[] = [
 		localization: 'Yes',
 		forums: 'Yes',
 		userApps: 'Yes',
-		polls: {
-			text: 'Has a PR',
-			url: 'https://github.com/nyxx-discord/nyxx/pull/644'
-		}
+		polls: 'Dev Version'
 	},
 	{
 		name: 'coxir',
